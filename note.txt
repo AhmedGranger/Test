@@ -1,0 +1,6 @@
+ssh-keygen -t ed25519 -c "GrangerPr"
+ssh-keygen -t ed25519 -C "Huangdi"
+ssh-add .\.ssh\AhmedGranger
+ssh -Tv github.AhmedGranger
+Huangdi1234
+Ahmed1234
